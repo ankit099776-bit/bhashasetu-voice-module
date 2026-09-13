@@ -34,3 +34,10 @@ htmlcov/
 *.onnx
 .huggingface/
 .cache/
+
+# Node & Android Build Artifacts
+node_modules/
+dist/
+build/
+.gradle/
+*.apk
